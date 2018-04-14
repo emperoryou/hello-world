@@ -2,3 +2,4 @@
 first repo
 edit
 item
+details
